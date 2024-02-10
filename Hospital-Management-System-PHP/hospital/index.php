@@ -359,7 +359,7 @@ while ($row=mysqli_fetch_array($ret)) {
                         <li><a ui-sref="portfolio" href="#services">Services</a><i class="fa fa-angle-right"></i></li>
                         <li><a ui-sref="products" href="#logins">Logins</a><i class="fa fa-angle-right"></i></li>
                         <li><a ui-sref="gallery" href="#gallery">Gallery</a><i class="fa fa-angle-right"></i></li>
-                        <li><a ui-sref="contact" href="#contact">Contact us</a><i class="fa fa-angle-right"></i></li>
+                        <li><a ui-sref="contact" href="Contact.html">Contact us</a><i class="fa fa-angle-right"></i></li>
                     </ul>
                 </div>
                 <div class="col-md-6 col-sm-12 map-img">
@@ -392,7 +392,7 @@ while ($row=mysqli_fetch_array($ret)) {
     </footer>
     <div class="copy">
             <div class="container">
-         Hospital Management System
+          Care & Cure Hospital Management System
                 
      
             </div>
