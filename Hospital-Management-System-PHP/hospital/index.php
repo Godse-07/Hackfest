@@ -45,7 +45,7 @@ echo "<script>window.location.href ='index.php'</script>";
                             <li><a href="#services">Services</a></li>
                             <li><a href="#about_us">About Us</a></li>
                             <li><a href="#gallery">Gallery</a></li>
-                            <li><a href="#contact_us">Contact Us</a></li>
+                            <li><a href="Contact.html">Contact Us</a></li>
                             <li><a href="#logins">Logins</a></li>  
                         </ul>
                     </div>
