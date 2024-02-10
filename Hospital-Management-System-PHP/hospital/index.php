@@ -74,10 +74,13 @@ echo "<script>window.location.href ='index.php'</script>";
 
             <div class="carousel-inner">
                 <div class="carousel-item ">
-                    <img class="d-block w-100" src="assets/images/slider/slider_2.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="assets/images/slider/P1.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                        <h5 class="animated bounceInDown">Hospital Management System</h5>
+                    <h1 class="animated bounceInDown">MED AI</h1>
+                    <h5 class="animated bounceInDown">Hospital Management System</h5>  
+                    <h6 class="animated bounceInDown"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
+                        
             
                          
                     
@@ -85,15 +88,32 @@ echo "<script>window.location.href ='index.php'</script>";
                 </div>
                 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/slider/slider_3.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="assets/images/slider/P2.jpg" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                        <h5 class="animated bounceInDown">Hospital Management System</h5>
+                    <h1 class="animated bounceInDown">MED AI</h1>
+                    <h5 class="animated bounceInDown">Hospital Management System</h5>  
+                    <h6 class="animated bounceInDown"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
             
                          
                     
                     </div>
+                
+
+                    
+
               
+                </div>
+                <div class="carousel-item ">
+                    <img class="d-block w-100" src="assets/images/slider/new.jpg" alt="Second slide">
+                    <div class="carousel-cover"></div>
+                    <div class="carousel-caption vdg-cur d-none d-md-block">
+                    <h1 class="animated bounceInDown">MED AI</h1>
+                    <h5 class="animated bounceInDown">Hospital Management System</h5>  
+                    <h6 class="animated bounceInDown"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
+                         
+                    
+                    </div>
                 </div>
                 
             </div>
@@ -124,7 +144,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/patient.jpg" alt="">
+                                <img src="assets/images/p12.webp" alt="">
 
                             <div class="blog-single-det">
                                 <h6>Patient Login</h6>
@@ -137,7 +157,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/doctor.jpg" alt="">
+                                <img src="assets/images/doctors.jpg" alt="">
 
                             <div class="blog-single-det">
                                 <h6>Doctors login</h6>
@@ -151,7 +171,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/admin.jpg" alt="">
+                                <img src="assets/images/admin2.jpg" alt="">
 
                             <div class="blog-single-det">
                                 <h6>Admin Login</h6>
@@ -282,11 +302,7 @@ while ($row=mysqli_fetch_array($ret)) {
                 
 
         <div class="gallery-filter d-none d-sm-block">
-            <button class="btn btn-default filter-button" data-filter="all">All</button>
-            <button class="btn btn-default filter-button" data-filter="hdpe">Dental</button>
-            <button class="btn btn-default filter-button" data-filter="sprinkle">Cardiology</button>
-            <button class="btn btn-default filter-button" data-filter="spray"> Neurology</button>
-            <button class="btn btn-default filter-button" data-filter="irrigation">Laboratry</button>
+          
         </div>
         <br/>
 
@@ -328,46 +344,7 @@ while ($row=mysqli_fetch_array($ret)) {
     
      <!--  ************************* Contact Us Starts Here ************************** -->
     
-    <section id="contact_us" class="contact-us-single">
-        <div class="row no-margin">
-
-            <div  class="col-sm-12 cop-ck">
-                <form method="post">
-                <h2 >Contact Form</h2>
-                    <div class="row cf-ro">
-                        <div  class="col-sm-3"><label>Enter Name :</label></div>
-                        <div class="col-sm-8"><input type="text" placeholder="Enter Name" name="fullname" class="form-control input-sm" required ></div>
-                    </div>
-                    <div  class="row cf-ro">
-                        <div  class="col-sm-3"><label>Email Address :</label></div>
-                        <div class="col-sm-8"><input type="text" name="emailid" placeholder="Enter Email Address" class="form-control input-sm"  required></div>
-                    </div>
-                     <div  class="row cf-ro">
-                        <div  class="col-sm-3"><label>Mobile Number:</label></div>
-                        <div class="col-sm-8"><input type="text" name="mobileno" placeholder="Enter Mobile Number" class="form-control input-sm" required ></div>
-                    </div>
-                     <div  class="row cf-ro">
-                        <div  class="col-sm-3"><label>Enter  Message:</label></div>
-                        <div class="col-sm-8">
-                          <textarea rows="5" placeholder="Enter Your Message" class="form-control input-sm" name="description" required></textarea>
-                        </div>
-                    </div>
-                     <div  class="row cf-ro">
-                        <div  class="col-sm-3"><label></label></div>
-                        <div class="col-sm-8">
-                         <button class="btn btn-success btn-sm" type="submit" name="submit">Send Message</button>
-                        </div>
-                </div>
-            </form>
-            </div>
-     
-        </div>
-    </section>
-    
-    
-    
-    
-    
+  
     <!-- ################# Footer Starts Here#######################--->
 
 
@@ -421,7 +398,8 @@ while ($row=mysqli_fetch_array($ret)) {
             </div>
 
         </div>
-    
+        <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/8dab9aea-3fd1-404d-a7f4-eaa36cc7114f/webchat/config.js" defer></script>
     </body>
 
 <script src="assets/js/jquery-3.2.1.min.js"></script>
