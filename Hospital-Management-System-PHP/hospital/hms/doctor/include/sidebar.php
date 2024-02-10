@@ -47,11 +47,11 @@
 								</a>
 								<ul class="sub-menu">
 									
-									<li>
+									<!-- <li>
 										<a href="add-patient.php">
 											<span class="title"> Add Patient</span>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="manage-patient.php">
 											<span class="title"> Manage Patient </span>
