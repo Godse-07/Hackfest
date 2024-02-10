@@ -144,7 +144,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/p12.webp" alt="">
+                                <img src="assets/images/p12.webp" alt="" style="height: 496.04px;">
 
                             <div class="blog-single-det">
                                 <h6>Patient Login</h6>
