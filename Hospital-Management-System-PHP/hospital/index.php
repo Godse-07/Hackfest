@@ -25,6 +25,13 @@ echo "<script>window.location.href ='index.php'</script>";
     <link rel="stylesheet" href="assets/css/fontawsom-all.min.css">
      <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <style>
+        .font1{
+            font-size: 1.1256854rem;
+        }
+    </style>
+
 </head>
 
     <body>
@@ -77,9 +84,9 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/P1.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">MED AI</h1>
+                    <h1 class="animated bounceInDown">CARE & CURE</h1>
                     <h5 class="animated bounceInDown">Hospital Management System</h5>  
-                    <h6 class="animated bounceInDown"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
+                    <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
                         
             
                          
@@ -91,9 +98,9 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/P2.jpg" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">MED AI</h1>
+                    <h1 class="animated bounceInDown">CARE & CURE</h1>
                     <h5 class="animated bounceInDown">Hospital Management System</h5>  
-                    <h6 class="animated bounceInDown"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
+                    <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
             
                          
                     
@@ -108,9 +115,9 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/new.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">MED AI</h1>
+                    <h1 class="animated bounceInDown">CARE & CURE</h1>
                     <h5 class="animated bounceInDown">Hospital Management System</h5>  
-                    <h6 class="animated bounceInDown"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
+                    <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
                          
                     
                     </div>
